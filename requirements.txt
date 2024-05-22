@@ -1,0 +1,2 @@
+requests
+gpt4all
